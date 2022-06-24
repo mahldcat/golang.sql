@@ -1,4 +1,4 @@
-module golang.sql
+module github.com/mahldcat/golang.sql
 
 go 1.18
 
